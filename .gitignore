@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Unity Academy 2022/[Ll]ibrary/
+Unity Academy 2022/[Tt]emp/
+Unity Academy 2022/[Oo]bj/
+Unity Academy 2022/[Bb]uild/
+Unity Academy 2022/[Bb]uilds/
+Unity Academy 2022/[Ll]ogs/
+Unity Academy 2022/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
