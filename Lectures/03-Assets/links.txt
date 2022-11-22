@@ -1,7 +1,22 @@
-Models:
-- 
-- 
-- 
+Asset Store:
+- https://assetstore.unity.com/
+
+Art:
+- https://opengameart.org/
+- https://letsmakegames.org/resources/art-assets-for-game-developers/
+- https://game-icons.net/
+- https://www.flaticon.com/
 
 Sound:
-- 
+- https://soundbible.com/
+- https://www.melodyloops.com/
+
+Algorithms:
+- http://www-cs-students.stanford.edu/~amitp/gameprog.html
+
+Collections:
+- https://docs.google.com/document/d/1qQf5zjvJHEB40xYhTiFo9GzNYUBt8iAw8vzPu2Oy354
+- https://thenextweb.com/news/300-awesome-free-things-massive-list-free-resources-know
+
+
+- https://assetstore.unity.com/packages/3d/low-polygon-soccer-ball-84382#content
