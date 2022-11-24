@@ -1,0 +1,43 @@
+Key Differences:
+- Movement
+- Environment
+- Controls
+- Goal
+
+Genres:
+- 2d: Platformers, Puzzles, Fighting
+- 3d: FPS, Racing, Sports
+
+2D
+- Only two dimensions (length and height)
+- No physical depth of subject
+- Presented on a flat surface
+- Programs Used - Illustrator, Photoshop, Sketchbook
+- Actions happen on X and Y axis
+- 2D animation is usually implemented in films, cartoon shows, and e-learning courses
+- 2D animation is all about frames
+- 2D animation uses bitmap and vector graphics
+- Objects do not appear to move toward or away from the viewer
+- Low production cost compared to 3D animation.
+- Quick to produce, hence low production lead time
+- Generally created by using traditional drawing methods.
+- 2D games restrict player movement to a flat plane
+- Player can only move from left to right until the goal is reached
+- 2D games use digital pads
+
+3D
+- Perception of depth
+- 3D art have form
+- 3D art can be made interactive (Virtual Reality)
+- Programs Used - Autodesk Maya, Autodesk Mudbox, Houdini, Cinema 4D. Modo.
+- Actions occur in X, Y and Z axis
+- 3D animation is majorly used in gaming and movies
+- 3D animation is all about movements
+- 3D animation undergoes modelling, layout, animation and rendering
+- Process of moving three-dimensional moving images in a digital environment
+- In 3D animation, everything is created in a computer software.
+- 3D games allow players to move in a 3D world
+- Players can move closer and deeper into the screen
+- 3D games use joysticks to control their avatars
+
+https://gamemaker.io/en/blog/2d-games-vs-3d-games
