@@ -1,0 +1,5 @@
+Setup build with github Pages & Actions
+
+1. Enable Github Pages - https://github.com/sdoychev/unity-academy-22/settings/pages
+2. Create a WebGL build in /docs folder.
+3. Push to remote
