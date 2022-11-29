@@ -1,0 +1,3 @@
+// Unity C# Cheat Sheet
+// I made these examples for students with prior exerience working with C# and Unity. 
+// Too much? Try Unity's very good tutorials to get up to speed: https://unity3d.com/learn/tutorials/topics/scripting
