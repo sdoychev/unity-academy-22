@@ -1,0 +1,7 @@
+Assets:
+- https://opengameart.org/content/3-character-sprite-sheets
+- https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979
+- https://media.giphy.com/media/mYszSnpwOQzpMrFvkH/giphy.gif
+
+Tweens:
+- https://github.com/jeffreylanters/unity-tweens
