@@ -1,0 +1,8 @@
+Canvases
+	- Render Mode 
+RectTransforms
+	- Anchors
+Render Order
+	- Order in Layer 
+Canvas Groups
+	- Interactable
