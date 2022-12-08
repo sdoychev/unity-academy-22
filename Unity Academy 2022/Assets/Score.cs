@@ -11,14 +11,14 @@ public class Score : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Score: " + score);
+        //Debug.Log("Score: " + score);
     }
 
     void OnCollisionEnter(Collision collision)
     {
         Vector3 up = collision.transform.up * magnitude;
         collision.gameObject.GetComponent<Rigidbody>().AddForce(up);
-        Debug.Log("Score: " + ++score);
+        //Debug.Log("Score: " + ++score);
     }
 
 }
