@@ -9,6 +9,7 @@ public class WarriorScript : MonoBehaviour
     
     private void Start()
     {
+        Debug.Log(Application.persistentDataPath);
         gameDataManager = new GameDataManager();
         gameDataManager.Load();
         RefreshPlayerData();
@@ -27,10 +28,12 @@ public class WarriorScript : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha8))
         {
             gameDataManager.Load();
+            RefreshPlayerData();
         }
         if (Input.GetKeyDown(KeyCode.Alpha9))
         {
             gameDataManager.Data.playerName = name;
+            gameDataManager.Data.playerScore = score;
             gameDataManager.Save();
         }
     }
