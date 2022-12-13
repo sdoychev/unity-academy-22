@@ -1,0 +1,8 @@
+Mass
+The Mass of the Rigidbody on the gameobject measured in kilograms by the Physics Engine. Just like in real life a gameobject with higher mass has more of a reaction on one with a lower mass.
+
+Drag
+The Drag property is the amount of resistance that is applied to the gameobject as it moves through the scene. If the drag is higher than 0 it will eventually cause the gameobject to stop unless constant force is applied and in that case drag will hinder it’s movement and slow it down (i.e. fall slower).
+
+Angular Drag
+Angular Drag works very similarly to Drag but only applies resistance to the gameobject’s rotational speed, which in most cases acts like Drag. The case where it doesn’t is when the gameobject is moving without rotating, like falling straight down.
